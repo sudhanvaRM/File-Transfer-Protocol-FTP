@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<unistd.h>
-#define SERV_TCP_PORT 8080
+#define SERV_TCP_PORT 9000
 #define MAX 60
 
 int main(int arg,char*argv[])
